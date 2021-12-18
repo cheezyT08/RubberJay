@@ -16,3 +16,6 @@ A simple HID/keyboard mimicker library
 > Unzip folder, if downloaded using ZIP file,  
 > move the *RubberJay-main* folder to desired location,  
 > set classpath or modulepath, then import 'cheezyT08.com.github.RubberJay.*;'
+
+## Tips:
+> Do not set delay to lower that ~4, or key presses may not register depending on OS  
