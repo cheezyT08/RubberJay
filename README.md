@@ -13,4 +13,4 @@ A Simple Key Typing Library
 > > Press the green ***Code*** button, then *Download ZIP*.
 
 ## Use:  
-> Unxip folder, if downloaded using ZIP file,
+> Unzip folder, if downloaded using ZIP file,
