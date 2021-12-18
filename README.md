@@ -13,4 +13,6 @@ A Simple Key Typing Library
 > > Press the green ***Code*** button, then *Download ZIP*.
 
 ## Use:  
-> Unzip folder, if downloaded using ZIP file,
+> Unzip folder, if downloaded using ZIP file,  
+> move the *RubberJay-main* folder to desired location,  
+> set classpath or modulepath, then import 'cheezyT08.com.github.RubberJay.*;'
