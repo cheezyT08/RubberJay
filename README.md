@@ -1,5 +1,5 @@
 # RubberJay  
-A Simple Key Typing Library  
+A simple HID/keyboard mimicker library
 ## WARNING: Any malicious use is ILLEGAL!  
 
 ## Download:  
